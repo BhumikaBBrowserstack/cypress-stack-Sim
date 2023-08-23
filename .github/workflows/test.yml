@@ -12,6 +12,9 @@ jobs:
         - uses: actions/setup-node@v2
           with:
             node-version: '18'
+        - name: cypress install
+          run: cypress install
+          
         - name: Run tests
           uses: cypress-io/github-action@v5
           env:
