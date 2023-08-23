@@ -8,7 +8,7 @@
     ],
     "testObservability": false,
     "run_settings": {
-        "cypress_version": "12.latest",
+        "cypress_version": "12.13.0",
         "timezone": "Chicago",
         "spec_timeout": "3",
         "build_name": "cypress-bstack",
@@ -20,7 +20,7 @@
         "exclude": [],
         "parallels": "5",
         "npm_dependencies": {
-            "cypress": "^12.17.3",
+            "cypress": "12.13.0",
             "playwright-webkit": "^1.37.0",
             "typescript": "^5.1.6"
         },
