@@ -15,7 +15,6 @@
         "cypress_config_file": "./cypress.config.ts",
         "home_directory": "./",
         "project_name": "cypress-bstack",
-        "cache_dependencies": "true",
         "interactiveDebugging": "true",
         "exclude": [],
         "parallels": "5",
